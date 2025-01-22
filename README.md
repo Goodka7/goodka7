@@ -1,5 +1,8 @@
-## Hi there 👋
+## 🤖 James Harrington's IT and Cybersecurity Portfolio 🤖
 
+Highly motivated cybersecurity professional with extensive experience in information security and a strong background in Linux and Windows operating systems. Proficient in programming/scripting languages, adept at data encryption, multi-factor authentication, and network traffic analysis. Eager to leverage expertise in cloud computing to contribute effectively to cutting-edge security initiatives.
+
+**UNDER CONSTRUCTION**
 <!--
 **Goodka7/goodka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
