@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
-- **[Threat Hunting Secnario (PowerShell Misusage)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
+- **[Threat Hunting Scenario (PowerShell Misusage)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
 
 <hr/>
 
