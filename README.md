@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (PowerShell Misusage)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
 - **[Threat Hunting Scenario (Unauthorized System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
 - **[Threat Hunting Scenario (Impossible Travel)](https://github.com/Goodka7/Threat-Hunting-Impossible-Travel-)**
+- **[Threat Hunting Scenario (Unauthorized RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
 
 <hr/>
 
