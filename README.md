@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-# Windows -
+### Windows -
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
 - **[Threat Hunting Scenario (PowerShell Misusage)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
 - **[Threat Hunting Scenario (Unauthorized System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
