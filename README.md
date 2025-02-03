@@ -18,7 +18,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Unauthorized RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
 
 ### Linux -
-- **[Threat Hunting Scenation (Persistence)](https://github.com/Goodka7/Threat-Hunting-Persistence-)**
+- **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting-Persistence-)**
+- **[Threat Hunting Scenario (Insider Threat](https://github.com/Goodka7/Threat-Hunting-Insider-Threat-)**
 <hr/>
 
 ## 🤳 Connect With Me
