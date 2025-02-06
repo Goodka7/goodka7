@@ -21,6 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting-Persistence-)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting-Insider-Threat-)**
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting-Malicious-Execution-)**
+- **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting-Data-Theft-)**
 <hr/>
 
 ## 🤳 Connect With Me
