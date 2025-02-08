@@ -11,17 +11,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 ### Windows -
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
-- **[Threat Hunting Scenario (PowerShell Misusage)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
-- **[Threat Hunting Scenario (Unauthorized System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
+- **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
+- **[Threat Hunting Scenario (PowerShell)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
+- **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
 - **[Threat Hunting Scenario (Impossible Travel)](https://github.com/Goodka7/Threat-Hunting-Impossible-Travel-)**
-- **[Threat Hunting Scenario (Unauthorized RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
+- **[Threat Hunting Scenario (RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
 
 ### Linux -
 - **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting-Persistence-)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting-Insider-Threat-)**
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting-Malicious-Execution-)**
 - **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting-Data-Theft-)**
+- **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting-Brute-Force-)**
 <hr/>
 
 ## 🤳 Connect With Me
