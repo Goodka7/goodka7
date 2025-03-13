@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Multi-Cloud Infrastructure Automation & AI Integration](https://github.com/Goodka7/MultiCloud-AI)**
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/Goodka7/Vuln-Management)**
 - **[STIG Implementation(PowerShell and BASH)](https://github.com/Goodka7/STIG-Remediation)**
