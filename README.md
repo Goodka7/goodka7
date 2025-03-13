@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b4d37c31-5fae-44ca-8fde-4050b9e8afff" width="800" height="400"> 
+<img src="https://github.com/user-attachments/assets/b4d37c31-5fae-44ca-8fde-4050b9e8afff" width="700" height="400"> 
 
 # <a href="https://www.linkedin.com/in/goodk47/">James Harrington</a>'s IT and Cybersecurity Project Portfolio 🤖
 
@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting-Insider-Threat-)**
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting-Malicious-Execution-)**
 - **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting-Data-Theft-)**
-- **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting-Brute-Force-)**
+- **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
