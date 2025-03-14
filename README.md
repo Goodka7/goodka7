@@ -16,18 +16,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 ### Windows -
-- **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
-- **[Threat Hunting Scenario (PowerShell)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
-- **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
 - **[Threat Hunting Scenario (Impossible Travel)](https://github.com/Goodka7/Threat-Hunting-Impossible-Travel-)**
+- **[Threat Hunting Scenario (PowerShell)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
 - **[Threat Hunting Scenario (RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
-
+- **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
+- **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
+- 
 ### Linux -
-- **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting-Persistence-)**
+- **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
+- **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Data-Theft/README.md)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Insider-Threat/README.md)**
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Malicious-File/README.md))**
-- **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Data-Theft/README.md)**
-- **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
+- **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Persistence/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
