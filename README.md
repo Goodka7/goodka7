@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (PowerShell)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/PowerShell/README.md)**
 - **[Threat Hunting Scenario (RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
 - **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
-- **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting-TOR-)**
+- **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/Tor-Browser/README.md)**
 - 
 ### Linux -
 - **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
