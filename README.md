@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
 - **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Data-Theft/README.md)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Insider-Threat/README.md)**
-- **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Malicious-File/README.md))**
+- **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Malicious-File/README.md)**
 - **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Persistence/README.md)**
 <hr/>
 
