@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 ### Windows -
-- **[Threat Hunting Scenario (Impossible Travel)](https://github.com/Goodka7/Threat-Hunting-Impossible-Travel-)**
+- **[Threat Hunting Scenario (Impossible Travel)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)**
 - **[Threat Hunting Scenario (PowerShell)](https://github.com/Goodka7/Threat-Hunting-PowerShell-)**
 - **[Threat Hunting Scenario (RDP)](https://github.com/Goodka7/Threat-Hunting-RDP-)**
 - **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting-SystemConfig-)**
