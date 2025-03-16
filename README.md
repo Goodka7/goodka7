@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Goodka7/Vuln-Management)**
 - **[STIG Implementation(PowerShell and BASH)](https://github.com/Goodka7/STIG-Remediation)**
-- **[YARA Rules](https://github.com/Goodka7/YARA/blob/main/Wannacry/README.md)**
+- **[YARA Rules](https://github.com/Goodka7/YARA/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
