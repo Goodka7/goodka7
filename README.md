@@ -32,7 +32,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/>
 
 ### Other Projects - 
--**[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab.md)**
+-**[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
 
 ## 🤳 Connect With Me
 <!--
