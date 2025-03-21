@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (RDP)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/RDP/README.md)**
 - **[Threat Hunting Scenario (System Configuration)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)**
 - **[Threat Hunting Scenario (Tor Browser)](https://github.com/Goodka7/Threat-Hunting/blob/main/Windows-Threats/Tor-Browser/README.md)**
-- 
+   
 ### Linux -
 - **[Threat Hunting Scenario (Brute Force)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Brute-Force/README.md)**
 - **[Threat Hunting Scenario (Data Theft)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Data-Theft/README.md)**
