@@ -29,11 +29,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Insider-Threat/README.md)**
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Malicious-File/README.md)**
 - **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Persistence/README.md)**
+
+## 💡Other Projects 
+
+- **[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
+
 <hr/>
-
-### Other Projects - 
--**[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
-
 ## 🤳 Connect With Me
 <!--
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
