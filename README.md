@@ -53,6 +53,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [linkedin]: https://linkedin.com/in/Goodk47
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/a783797c-8749-4fbc-ae2b-629adb420ff8" style='border:none;'>
-
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Goodka7.png)
