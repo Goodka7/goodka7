@@ -51,4 +51,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <!--[instagram]: https://www.instagram.com/___________-->
 [linkedin]: https://linkedin.com/in/Goodk47
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1018550" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1018550" style='border:none;'>
