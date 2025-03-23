@@ -35,6 +35,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
 - **[Security Operations Center](https://github.com/Goodka7/SOC/blob/main/README.md)**
     - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
+    - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
 
 
 <hr/>
