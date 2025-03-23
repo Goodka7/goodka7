@@ -54,6 +54,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <br>
 <br>
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Goodka7.png)
-## TryHackMe Badge
-![TryHackMe Badge](https://goodka7.github.io/html/badge.html)
 
