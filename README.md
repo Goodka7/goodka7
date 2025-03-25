@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/65c8e7ce-fe6e-4716-bf0a-f11c89baca2b" width="500" height="200"> 
-</div>
-
+   
 # <a href="https://www.linkedin.com/in/goodk47/">James Harrington</a>'s Project Portfolio 🤖
+</div>
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
