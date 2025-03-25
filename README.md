@@ -28,14 +28,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Malicious File)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Malicious-File/README.md)**
 - **[Threat Hunting Scenario (Persistence)](https://github.com/Goodka7/Threat-Hunting/blob/main/Linux-Threats/Persistence/README.md)**
 
+### **[Security Operations Center](https://github.com/Goodka7/SOC/blob/main/README.md)**
+    - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
+    - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
+    - **[Forced Authentication](https://github.com/Goodka7/SOC/blob/main/Forced-Authentication/README.md)**
+
 ## 💡Other Projects 
 
 - **[Multi-Cloud Infrastructure Automation & AI Integration](https://github.com/Goodka7/MultiCloud-AI)**
 - **[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
-- **[Security Operations Center](https://github.com/Goodka7/SOC/blob/main/README.md)**
-    - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
-    - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
-    - **[Forced Authentication](https://github.com/Goodka7/SOC/blob/main/Forced-Authentication/README.md)**
 
 
 <hr/>
