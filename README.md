@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/65c8e7ce-fe6e-4716-bf0a-f11c89baca2b" width="900" height="200"> 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/65c8e7ce-fe6e-4716-bf0a-f11c89baca2b" width="700" height="200"> 
+</div>
 
 # <a href="https://www.linkedin.com/in/goodk47/">James Harrington</a>'s IT and Cybersecurity Project Portfolio 🤖
 
