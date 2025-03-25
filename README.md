@@ -55,5 +55,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <br>
 <br>
 
-![TryHackMe Badge](https://github.com/user-attachments/assets/09380660-743f-4022-bb2d-6fa80e682e45)
+![TryHackMe Badge](https://github.com/user-attachments/assets/d5b6e91a-6330-4d69-85bc-3657e740462d)
 
