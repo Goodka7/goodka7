@@ -30,10 +30,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### Security Operations Center - 
 
-**[SOC](https://github.com/Goodka7/SOC/blob/main/README.md)**
-       - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
-       - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
-       - **[Forced Authentication](https://github.com/Goodka7/SOC/blob/main/Forced-Authentication/README.md)**
+**[SOC Overview](https://github.com/Goodka7/SOC/blob/main/README.md)**
+   - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
+   - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
+   - **[Forced Authentication](https://github.com/Goodka7/SOC/blob/main/Forced-Authentication/README.md)**
 
 ## 💡Other Projects 
 
