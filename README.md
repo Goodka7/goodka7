@@ -6,10 +6,6 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🌩️ Cloud Computing
-
-- **[Multi-Cloud Infrastructure Automation & AI Integration](https://github.com/Goodka7/MultiCloud-AI)**
-
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/Goodka7/Vuln-Management)**
@@ -34,6 +30,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 💡Other Projects 
 
+- **[Multi-Cloud Infrastructure Automation & AI Integration](https://github.com/Goodka7/MultiCloud-AI)**
 - **[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
 - **[Security Operations Center](https://github.com/Goodka7/SOC/blob/main/README.md)**
     - **[Broken Access Control](https://github.com/Goodka7/SOC/blob/main/Broken-Access-Control/README.md)**
