@@ -33,6 +33,7 @@
       - **[QR Code Phishing](https://github.com/Goodka7/SOC/blob/main/QRPhishing/README.md)**
       - **[Forced Authentication](https://github.com/Goodka7/SOC/blob/main/Forced-Authentication/README.md)**
       - **[Winlogon Exploit](https://github.com/Goodka7/SOC/blob/main/Winlogon/README.md)**
+      - **[Malicious Chrome Extension](https://github.com/Goodka7/SOC/blob/main/Malicious-Extension/README.md)**
 
 ## 💡Other Projects 
 
