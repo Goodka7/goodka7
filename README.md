@@ -40,6 +40,7 @@
 
 ## 💡Other Projects 
 
+- **[Governance, Risk and Compliance](https://github.com/Goodka7/GRC/blob/main/README.md)**
 - **[Multi-Cloud Infrastructure Automation & AI Integration](https://github.com/Goodka7/MultiCloud-AI)**
 - **[Malware Lab w/ Flare VM](https://github.com/Goodka7/MalwareLab/blob/main/README.md)**
 
