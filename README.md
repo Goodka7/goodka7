@@ -59,5 +59,5 @@
 <br>
 <div align="center">
    
-![TryHackMe Badge](https://github.com/user-attachments/assets/f8bca781-5fc8-4bb5-bba4-f7178c6265bf)
+![TryHackMe Badge](https://github.com/user-attachments/assets/742f78d0-53cb-4835-8436-e20e95ed9b0b)
 </div>
