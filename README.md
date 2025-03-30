@@ -7,9 +7,9 @@
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/Goodka7/Vuln-Management)**
-- **[STIG Implementation(PowerShell and BASH)](https://github.com/Goodka7/STIG-Remediation)**
-   -**[Linux-UBUNTU(BASH)](https://github.com/Goodka7/STIG-Remediation/tree/main/linux)**
-   -**[Windows-10(PowerShell)](https://github.com/Goodka7/STIG-Remediation/tree/main/windows)**
+- **[STIG Implementation (PowerShell and BASH)](https://github.com/Goodka7/STIG-Remediation)**  
+  - **[Linux - UBUNTU (BASH)](https://github.com/Goodka7/STIG-Remediation/tree/main/linux)**  
+  - **[Windows 10 (PowerShell)](https://github.com/Goodka7/STIG-Remediation/tree/main/windows)**
 - **[YARA Implementation](https://github.com/Goodka7/YARA/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
