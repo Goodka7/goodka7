@@ -37,6 +37,7 @@
       - **[Winlogon Exploit](https://github.com/Goodka7/SOC/blob/main/Winlogon/README.md)**
       - **[Malicious Chrome Extension](https://github.com/Goodka7/SOC/blob/main/Malicious-Extension/README.md)**
       - **[HyperScrape Exfiltration](https://github.com/Goodka7/SOC/blob/main/HyperScrape-Exfiltration/README.md)**
+      - **[Phishing Email](https://github.com/Goodka7/SOC/blob/main/Phishing/README.md)**
 
 ## 💡Other Projects 
 
